@@ -1,0 +1,58 @@
+﻿Record ID#,Launch Date,Vehicle Name,Launch Organizations,Launch Organizations (ref),Launch Site,Launch Outcome,Mission Outcome,Internationally Competed Launch,Booster Landing Outcome,Booster Return?,Previously Flown Booster?
+1,3/7/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),57,Cape Canaveral Space Force Station,Future,Future,yes,,yes,yes
+2,2/28/23,Terran 1,Relativity Space,56,Cape Canaveral Space Force Station,Future,Future,no,,no,no
+3,2/27/23,Long March 4C,CASC,55,Taiyuan Satellite Launch Center,Future,Future,no,,no,no
+4,2/27/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),54,Kennedy Space Center,Success,Success,no,,no,no
+5,2/27/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),53,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+6,2/26/23,Falcon 9 Block 5 Dragon,Space Exploration Technologies (SpaceX),52,Cape Canaveral Space Force Station,Future,Future,no,,yes,yes
+7,2/24/23,Soyuz 2.1a,Russian Aerospace Forces (VKS),51,Baikonur Cosmodrome,Success,Success,no,,no,no
+8,2/24/23,Long March 2C,China Aerospace Science and Technology Corporation (CASC),50,Xichang Satellite Launch Center,Success,Success,no,,no,no
+9,2/23/23,Long March 3B,China Aerospace Science and Technology Corporation (CASC),49,Xichang Satellite Launch Center,Success,Success,no,,no,no
+10,2/19/23,Soyuz 2.1a,Roscosmos (Russian Space Agency),48,Baikonur Cosmodrome,Future,Future,no,,no,no
+11,2/18/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),47,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+12,2/17/23,H3-22S,Japan Aerospace Exploration Agency (JAXA),46,Tanegashima,Future,Future,no,,no,no
+13,2/17/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),45,Cape Canaveral Space Force Station,Future,Future,no,,yes,yes
+14,2/17/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),44,Vandenberg Air Force Base,Success,Success,no,,no,no
+15,2/12/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),43,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+16,2/10/23,SSLV,Indian Space Research organization (Antrix),42,Satish Dhawan Space Center,Success,Success,no,,no,no
+17,2/9/23,Soyuz 2.1a,OKB-1,41,Baikonur Cosmodrome,Future,Future,no,,no,no
+18,2/9/23,SSLV,Indian Space Research Organisation (ISRO),40,Satish Dhawan Space Center,Future,Future,no,,no,no
+19,2/9/23,Soyuz 2.1a,Russian Aerospace Forces (VKS),39,Baikonur Cosmodrome,Success,Success,no,,no,no
+20,2/7/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),38,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+21,2/2/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),37,Kennedy Space Center,Success,Success,no,,no,no
+22,2/2/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),36,Kennedy Space Center,Success,Success,no,,no,no
+23,1/31/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),35,Vandenberg Air Force Base,Future,Future,no,,no,no
+24,1/31/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),34,Cape Canaveral Space Force Station,Future,Future,no,,no,no
+25,1/31/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),33,Cape Canaveral Space Force Station,Future,Future,no,,no,no
+26,1/31/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),32,Cape Canaveral Space Force Station,Future,Future,no,Success,yes,yes
+27,1/31/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),31,Cape Canaveral Space Force Station,Future,Future,no,,no,no
+28,1/31/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),30,Cape Canaveral Space Force Station,Future,Future,no,,no,no
+29,1/31/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),29,Vandenberg Air Force Base,Success,Success,no,,no,no
+30,1/26/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),28,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+31,1/26/23,H-IIA 202,Mitsubishi Heavy Industries (MHI) Launch Services,27,Tanegashima,Success,Success,no,,no,no
+32,1/26/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),26,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+33,1/25/23,H-IIA 202,Mitsubishi Heavy Industries (MHI) Launch Services,25,Tanegashima,Success,Success,no,,no,no
+34,1/24/23,Electron,Rocket Lab,24,Wallops Flight Facility,Success,Success,no,,no,no
+35,1/23/23,Electron,Rocket Lab,23,Wallops Flight Facility,Success,Success,no,,no,no
+36,1/19/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),22,Vandenberg Air Force Base,Success,Success,no,,no,no
+37,1/19/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),21,Vandenberg Air Force Base,Success,Success,no,,no,no
+38,1/18/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),20,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+39,1/18/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),19,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+40,1/15/23,Falcon Heavy,Space Exploration Technologies (SpaceX),18,Kennedy Space Center,Success,Success,no,,no,no
+41,1/14/23,Falcon Heavy,Space Exploration Technologies (SpaceX),17,Kennedy Space Center,Success,Success,no,,no,no
+42,1/13/23,Long March 2D,China Aerospace Science and Technology Corporation (CASC),16,Jiuquan Satellite Launch Center,Success,Success,no,,no,no
+43,1/12/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),15,Vandenberg Air Force Base,Success,Success,no,,no,no
+44,1/12/23,Long March 2C,China Aerospace Science and Technology Corporation (CASC),14,Xichang Satellite Launch Center,Success,Success,no,,no,no
+45,1/10/23,RS1,ABL Space Systems,13,Kodiak Launch Complex,Success,Success,no,,no,no
+46,1/10/23,RS1,ABL Space Systems,12,Kodiak Launch Complex,Success,Success,no,,no,no
+47,1/10/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),11,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+48,1/10/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),10,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+49,1/10/23,RS1,ABL Space Systems,9,Kodiak Launch Complex,Success,Success,no,,no,no
+50,1/9/23,Ceres 1,Galactic Energy,8,Jiuquan Satellite Launch Center,Success,Success,no,,no,no
+51,1/9/23,LauncherOne,Virgin Orbit,7,Mojave Air and Space Port,Failure,Failure,no,,no,no
+52,1/9/23,Ceres 1,Galactic Energy,6,Jiuquan Satellite Launch Center,Success,Success,no,,no,no
+53,1/9/23,LauncherOne,Virgin Orbit,5,Mojave Air and Space Port,Success,Success,no,,no,no
+54,1/8/23,Long March 7A,China Aerospace Science and Technology Corporation (CASC),4,Wenchang Satellite Launch Center,Success,Success,no,,no,no
+55,1/8/23,Long March 7A,China Aerospace Science and Technology Corporation (CASC),3,Wenchang Satellite Launch Center,Success,Success,no,,no,no
+56,1/3/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),2,Cape Canaveral Space Force Station,Success,Success,no,,no,no
+57,1/3/23,Falcon 9 Block 5,Space Exploration Technologies (SpaceX),1,Cape Canaveral Space Force Station,Success,Success,no,,no,no

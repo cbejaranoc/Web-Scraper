@@ -1,0 +1,30 @@
+Date,Launch Vehicle,Site,Record ID#,Launch Date,Vehicle Name,Date Similarity %,Vehicle Similarity %,Match Status
+1/3/23,Falcon-9 v1.2 (Block 5),CC SLC-40,1,1/3/23,Falcon 9 Block 5,100,86,Match
+1/8/23,CZ-7A,We LC-201,,,,,,No Match
+1/9/23,Ceres-1 (3) (Gushenxing-1 (3)),Jq LC-43/95A,,,,,,No Match
+1/9/23,LauncherOne,Nq RW12/30,2,1/9/23,LauncherOne,100,100,Match
+1/10/23,Falcon-9 v1.2 (Block 5),CC SLC-40,3,1/10/23,Falcon 9 Block 5,100,86,Match
+1/10/23,RS1,Kd LP-3C,4,1/10/23,RS1,100,100,Match
+1/12/23,CZ-2C (3) [SPS],Xi LC-3,,,,,,No Match
+1/13/23,CZ-2D (2),Jq LC-43/94,,,,,,No Match
+1/15/23,CZ-2D (2),TY LC-9,,,,,,No Match
+1/15/23,Falcon-Heavy (Block 5)(px),CCK LC-39A,5,1/15/23,Falcon 9 Block 5,100,72,Match
+1/18/23,Falcon-9 v1.2 (Block 5),CC SLC-40,6,1/18/23,Falcon 9 Block 5,100,86,Match
+1/19/23,Falcon-9 v1.2 (Block 5),Va SLC-4E,7,1/19/23,Falcon 9 Block 5,100,86,Match
+1/24/23,Electron KS,WI LA-0C,8,1/24/23,Electron,100,84,Match
+1/26/23,H-2A-202,Ta YLP-1,9,1/26/23,H-IIA 202,100,59,Match
+1/26/23,Falcon-9 v1.2 (Block 5),CC SLC-40,10,1/26/23,Falcon 9 Block 5,100,86,Match
+1/31/23,Falcon-9 v1.2 (Block 5),Va SLC-4E,11,1/31/23,Falcon 9 Block 5,100,86,Match
+2/2/23,Falcon-9 v1.2 (Block 5),CCK LC-39A,12,2/2/23,Falcon 9 Block 5,100,86,Match
+2/7/23,Falcon-9 v1.2 (Block 5),CC SLC-40,13,2/7/23,Falcon 9 Block 5,100,86,Match
+2/9/23,Soyuz-2-1a,Ba LC-31/6,14,2/9/23,Soyuz 2.1a,100,100,Match
+2/10/23,SSLV,Sr FLP,15,2/10/23,SSLV,100,100,Match
+2/12/23,Falcon-9 v1.2 (Block 5),CC SLC-40,16,2/12/23,Falcon 9 Block 5,100,86,Match
+2/17/23,Falcon-9 v1.2 (Block 5),Va SLC-4E,17,2/17/23,Falcon 9 Block 5,100,86,Match
+2/18/23,Falcon-9 v1.2 (Block 5),CC SLC-40,18,2/18/23,Falcon 9 Block 5,100,86,Match
+2/23/23,CZ-3B/G2(2),Xi LC-2,,,,,,No Match
+2/24/23,Soyuz-2-1a,Ba LC-31/6,19,2/24/23,Soyuz 2.1a,100,100,Match
+2/24/23,CZ-2C (3),Jq LC-43/94,,,,,,No Match
+2/27/23,Falcon-9 v1.2 (Block 5),CC SLC-40,20,2/27/23,Falcon 9 Block 5,100,86,Match
+3/2/23,Falcon-9 v1.2 (Block 5),CCK LC-39A,,,,,,No Match
+3/3/23,Falcon-9 v1.2 (Block 5),Va SLC-4E,,,,,,No Match
